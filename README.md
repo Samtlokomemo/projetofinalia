@@ -75,4 +75,4 @@ Ao rodar o código, serão gerados:
 
 * [Hugo Ryan da Conceição Lima](https://github.com/hugo-ryan)
 * [Ingrid Vitória da Silva Conceição](https://github.com/Ingrid-Vitoriaa)
-* [Samuel Rocha Maranhão](github.com/Samtlokomemo)
+* [Samuel Rocha Maranhão](https://github.com/Samtlokomemo)
