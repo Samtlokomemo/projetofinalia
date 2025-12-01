@@ -45,7 +45,7 @@ Certifique-se de ter o Python instalado. Recomenda-se o uso de um ambiente virtu
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Samtlokomemo/projetofinalia.git](https://github.com/Samtlokomemo/projetofinalia.git)
+    git clone https://github.com/Samtlokomemo/projetofinalia.git
     cd projetofinalia
     ```
 
